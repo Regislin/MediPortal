@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+
+# Build output
+target/
+build/
+
+# Logs
+*.log
