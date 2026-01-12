@@ -93,26 +93,28 @@ MediPortal
 
 ---
 
-###Key Learnings
--Developed a Java Web Application using Servlets and JSP
--Implemented MVC architecture
--Used DAO pattern for database interaction
--Worked with JDBC and MySQL
--Managed dependencies using Maven
--Understood real-world request–response flow in web applications
+## 🧠 Key Learnings
+
+- Developed a **Java Web Application using Servlets and JSP**
+- Implemented **MVC architecture**
+- Used **DAO pattern** for database interaction
+- Worked with **JDBC and MySQL**
+- Managed dependencies using **Maven**
+- Understood real-world **request–response flow** in web applications
 
 ---
 
-###Future Enhancements
--Convert project to Spring MVC / Spring Boot
--Implement role-based authorization
--Improve UI with modern frontend frameworks
--Add RESTful APIs
+## 🔮 Future Enhancements
+
+- Convert project to **Spring MVC / Spring Boot**
+- Implement **role-based authorization**
+- Improve UI with modern frontend frameworks
+- Add **RESTful APIs**
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Regislin TR
-GitHub: https://github.com/Regislin
-Email: regislin2010@gmail.com
+**Regislin TR**  
+- GitHub: https://github.com/Regislin  
+- Email: regislin2010@gmail.com
